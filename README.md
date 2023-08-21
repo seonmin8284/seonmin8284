@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Seonmin_Github&fontSize=40&animation=twinkling)
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 LANGUAGE</h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <br>
+  <h1>:computer: ML/DL</h1>
+   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> 
   <br>
   <h1>:computer: WEB</h1>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
