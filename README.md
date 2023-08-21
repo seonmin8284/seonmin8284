@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <br>
-  <h1>:computer: ML/DL</h1>
+  <h1>:bulb: ML/DL</h1>
    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> 
   <br>
   <h1>:computer: WEB</h1>
