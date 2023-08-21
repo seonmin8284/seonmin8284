@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Seonmin_Github%20to%20use%20with%20other%20readme&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Seonmin_Github&fontSize=40&animation=twinkling)
 
