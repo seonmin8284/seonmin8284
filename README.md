@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **seonmin8284/seonmin8284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Seonmin_Github&fontSize=40&animation=twinkling)
+### Hi there 👋
 
