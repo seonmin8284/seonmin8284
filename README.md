@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Seonmin_Github&fontSize=40&animation=twinkling)
-</div>
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
