@@ -36,6 +36,20 @@ Here are some ideas to get you started:
 
 <br />
 
+## 1. AI 가상인간 영상 제작
+> 
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 작업 범위 : 
+> - 역할 및 업무:
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+> 
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
 ## 1. 협업용 영화 스튜디오 공유 모바일 플랫폼
 > 
 >
@@ -78,6 +92,7 @@ Here are some ideas to get you started:
 
 <br />
 
+KB국민은행, 숭실대, 유니스트, 드론, 
 
 <div align=center><h1>📚 LANGUAGE</h1></div>
 <div align=center>
