@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![soft](https://capsule-render.vercel.app/api?type=soft&text=Seonmin_Github&fontSize=40)
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=white&text=Seonmin_Github&fontSize=40)
 
 
 <div align=center><h1>📚 LANGUAGE</h1></div>
