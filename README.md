@@ -12,8 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![soft](https://capsule-render.vercel.app/api?type=soft&text=Seonmin_Github&fontSize=35)
+
+-->
+# Seonmin's Github Portfolio
 
 > 안녕하십니까! **"고객과의 신뢰성있는 관계를 최우선으로 생각하는"** 김선민입니다!
 > 
