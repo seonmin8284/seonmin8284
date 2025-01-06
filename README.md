@@ -32,6 +32,23 @@ Here are some ideas to get you started:
 
 **랭귀지, TTS, vision 등 다양한 AI 모델 파인튜닝**과 **플랫폼 서비스와 안정적인 연동 작업**을 맡아 진행했습니다.
 
+
+## 1. 협업용 영화 스튜디오 공유 모바일 플랫폼 개발
+> 
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 역할 및 업무:
+>   
+> 1) ㄹㅇㄹㅇ
+> 
+> 2) ㄹㄴㄷㄷ
+> - Skill : React.js
+> 
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+
 <div align=center><h1>📚 LANGUAGE</h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
