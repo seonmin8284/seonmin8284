@@ -34,16 +34,44 @@ Here are some ideas to get you started:
 
 **랭귀지, TTS, vision 등 다양한 AI 모델 파인튜닝**과 **플랫폼 서비스와 안정적인 연동 작업**을 맡아 진행했습니다.
 
+<br />
 
-## 1. 협업용 영화 스튜디오 공유 모바일 플랫폼 개발
+## 1. 협업용 영화 스튜디오 공유 모바일 플랫폼
 > 
 >
 > - 개발기간 : 2022.07.07-09.02
+> - 작업 범위 : 
 > - 역할 및 업무:
->   
-> 1) ㄹㅇㄹㅇ
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 > 
-> 2) ㄹㄴㄷㄷ
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+## 2. 테니스 동아리 회원 전용 테니스장 예약 모바일 플랫폼
+> 
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 작업 범위 : 
+> - 역할 및 업무:
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : React.js
+>   
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+## 3. NAWA 재활용 종이컵 스타트업 홈페이지 제작
+> 
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 작업 범위 : 
+> - 역할 및 업무: 
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
 > - Skill : React.js
 > 
 > [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
