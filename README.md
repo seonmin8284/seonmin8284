@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![soft](https://capsule-render.vercel.app/api?type=soft&text=Seonmin_Github&fontSize=30)
+![soft](https://capsule-render.vercel.app/api?type=soft&text=Seonmin_Github&fontSize=35)
 
 
 <div align=center><h1>📚 LANGUAGE</h1></div>
