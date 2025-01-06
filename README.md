@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![soft](https://capsule-render.vercel.app/api?type=soft&text=Seonmin_Github&fontSize=35)
-![soft](https://capsule-render.vercel.app/api?type=soft&text=Seonmin_Github&fontSize=35&color=white&fontColor=black&desc=Welcome!&descAlignY=75&descAlign=60&theme=light&bgColor=87CEEB)
+![soft](https://capsule-render.vercel.app/api?type=soft&text=Seonmin_Github&fontSize=35&fontColor=black&desc=Welcome!&descAlignY=75&descAlign=60&theme=light&bgColor=87CEEB)
 
 > 안녕하세요! ***"항상 새로운 것을 배우고 도전하고 싶은"*** 김선민입니다! 
 
