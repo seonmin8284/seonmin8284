@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ![soft](https://capsule-render.vercel.app/api?type=soft&text=Seonmin_Github&fontSize=35)
 
 > 안녕하십니까! ***"고객과의 신뢰성있는 관계를 최우선으로 생각하는"*** 김선민입니다!
+> 
 > 끊임없는 고객 중심의 사고와 책임감으로 신뢰와 혁신을 모두 갖춘 서비스를 만들어 나갈 것을 약속드립니다. 
 
 <div align=center><h1>📚 LANGUAGE</h1></div>
