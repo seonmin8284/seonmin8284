@@ -106,12 +106,40 @@ Here are some ideas to get you started:
 
 <br />
 
-## 1. 협업용 영화 스튜디오 공유 모바일 플랫폼
+## 6. 협업용 영화 스튜디오 공유 모바일 플랫폼
 > 
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 작업 범위 : 
 > - 역할 및 업무:
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+> 
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+## 7. 테니스 동아리 회원 전용 테니스장 예약 모바일 플랫폼
+> 
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 작업 범위 : 
+> - 역할 및 업무:
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+>   
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+## 8. NAWA 재활용 종이컵 스타트업 홈페이지 제작
+> 
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 작업 범위 : 
+> - 역할 및 업무: 
 > (1) ㄹㅇㄹㅇ
 > (2) ㄹㄴㄷㄷ
 > - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -120,21 +148,8 @@ Here are some ideas to get you started:
 
 <br />
 
-## 2. 테니스 동아리 회원 전용 테니스장 예약 모바일 플랫폼
-> 
->
-> - 개발기간 : 2022.07.07-09.02
-> - 작업 범위 : 
-> - 역할 및 업무:
-> (1) ㄹㅇㄹㅇ
-> (2) ㄹㄴㄷㄷ
-> - Skill : React.js
->   
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
 
-<br />
-
-## 3. NAWA 재활용 종이컵 스타트업 홈페이지 제작
+## 9. 제조업 노동자 근골격계 부담요인 예방 인공지능 데이터 구축
 > 
 >
 > - 개발기간 : 2022.07.07-09.02
@@ -142,13 +157,58 @@ Here are some ideas to get you started:
 > - 역할 및 업무: 
 > (1) ㄹㅇㄹㅇ
 > (2) ㄹㄴㄷㄷ
-> - Skill : React.js
+> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+> 
 > 
 > [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
 
 <br />
 
-KB국민은행, 숭실대, 유니스트, 드론, 
+## 9. 드론
+> 
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 작업 범위 : 
+> - 역할 및 업무: 
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+> 
+> 
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+## 9. 가상피팅
+> 
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 작업 범위 : 
+> - 역할 및 업무: 
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+> 
+> 
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+
+## 10. 유니스트
+> 
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 작업 범위 : 
+> - 역할 및 업무: 
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+> 
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
 
 <div align=center><h1>📚 LANGUAGE</h1></div>
 <div align=center>
