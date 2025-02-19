@@ -39,14 +39,12 @@ Here are some ideas to get you started:
 ## 1. 방송 스트리머를 위한 WebRTC 실시간 딥페이크 서비스
 > 
 >
-> - 개발기간 : 2022.07.07-09.02
-> - 작업 범위 : 
-> - 역할 및 업무:
-> (1) ㄹㅇㄹㅇ
-> (2) ㄹㄴㄷㄷ
-> - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+> - 개발기간 : 2025.01.20-
+> - 작업 범위 : WebRTC 스트리밍, P2P 및 TURN 서버 지원, 웹 및 모바일 지원, 단일 이미지로 얼굴 변환, 다중 GPU(Distributed Data Parallel) 지원
+> - 역할 및 업무: 1인 기획, 개발
+> - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> [프로젝트 상세 설명](https://github.com/seonmin8284/realTimeDeepfake_based_on_WebRTC)
 
 <br />
 
