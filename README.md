@@ -40,8 +40,28 @@ Here are some ideas to get you started:
 > 
 >
 > - 개발기간 : 2025.01-
-> - 작업 범위 : WebRTC 스트리밍, P2P 및 TURN 서버 지원, 웹 및 모바일 지원, 단일 이미지로 얼굴 변환, 다중 GPU(Distributed Data Parallel) 지원
-> - 역할 및 업무: 1인 기획, 개발
+> - 작업 범위 : WebRTC를 활용한 실시간 딥페이크 변환 및 스트리밍 시스템 구축, Roop 기반 Face Swap AI 모델 개발 및 최적화, Distributed Data Parallel (DDP) 기반 다중 GPU 활용 최적화, WebRTC 서버 및 TURN 서버 구축을 통한 실시간 영상 데이터 송수신 구현, Hyperstack Cloud를 활용한 서버 인프라 구축 및 RTMP 스트리밍 연계 가능성 고려  
+> - 역할 및 업무:
+>   
+>   (1) AI 프로젝트 기획 및 설계
+>   1) WebRTC 기반 실시간 딥페이크 스트리밍 서비스 기획
+>   2) 주요 기능 정의 및 AI 모델(Roop + GFPGAN) 선정
+>   3) WebRTC 및 AI 서버의 구조 설계 및 데이터 흐름 정의
+>   
+>   (2) AI 모델 개발 및 최적화
+>   1) Roop 모델을 활용한 단일 이미지 Face Swap 기능 구현
+>   2) InsightFace 및 GFPGAN을 활용한 얼굴 인식 및 화질 개선 적용
+>   3) DDP(Distributed Data Parallel) 기반 GPU 최적화
+>   
+>   (3) WebRTC 스트리밍 개발
+>   1) WebRTC 서버 구축 및 클라이언트 간 P2P 연결 구현
+>   2) TURN 서버 구축하여 NAT/방화벽 환경에서도 안정적인 연결 보장
+>   
+>   (4) 서버 인프라 구축 및 배포
+>   1) Hyperstack Cloud 기반으로 AI 서버, WebRTC 서버, TURN 서버 구성
+>   2) Docker/Kubernetes를 활용하여 서버 컨테이너화 및 배포 자동화
+>   3) RTMP 스트리밍 연계를 고려한 확장 가능성 반영
+>
 > - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
 > [프로젝트 상세 설명](https://github.com/seonmin8284/realTimeDeepfake_based_on_WebRTC)
@@ -55,7 +75,7 @@ Here are some ideas to get you started:
 > - 개발기간 : 2024.10
 > - 작업 범위 : 컨텐츠 추천 시스템 개발, RAG를 활용한 LLM 기반 챗봇 구현, STT 및 TTS 구현, 모바일 플랫폼 개발 
 > - 역할 및 업무: 모바일 크로스플랫폼 앱 프론엔드 제작
-> - 
+>   
 >   (1) UI/UX 설계
 >   
 >   (2) 모바일 크로스플랫폼 제작
@@ -161,6 +181,7 @@ Here are some ideas to get you started:
 > - 개발기간 : 2022.07.07-09.02
 > - 작업 범위 : YOLOv5를 활용한 객체 검출, HRNet 기반의 자세 추정, EfficientNet을 이용한 다중 라벨 분류, 인간공학적 평가 기법을 적용한 자세 분석, 그리고 EfficientNet-Lite를 활용한 모바일 환경 최적화까지의 AI 모델 개발 및 응용
 > - 역할 및 업무: 
+>
 >   (1) AI 서비스 기획 총괄
 >   1) 프로젝트의 전반적인 AI 서비스 기획 및 방향 설정
 >   2) 각 Task 간 연계성을 고려한 서비스 설계 및 성능 최적화
