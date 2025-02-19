@@ -49,14 +49,18 @@ Here are some ideas to get you started:
 <br />
 
 
-## 2. 사용자 콘텐츠 추천 시스템을 활용한 GPT 기반 대화형 팟캐스트(PODLY) 
+## 2. 콘텐츠 추천 시스템을 활용한 GPT 기반 대화형 팟캐스트(PODLY) 
 > 
 >
 > - 개발기간 : 2024.01-2024.06
-> - 작업 범위 : 
+> - 작업 범위 : 컨텐츠 추천 시스템 개발, RAG를 활용한 LLM 기반 챗봇 구현, STT 및 TTS 구현, 모바일 플랫폼 개발 
 > - 역할 및 업무: 모바일 크로스플랫폼 앱 프론엔드 제작
-> (1) ㄹㅇㄹㅇ
-> (2) ㄹㄴㄷㄷ
+>   (1) UI/UX 설계
+>   (2) 모바일 크로스플랫폼 제작
+>   1) 맞춤형 컨텐츠 재생 뮤직 플레이어 구현
+>   2) 토큰 기반 자연어 스트림 UX 챗봇과 TTS 음성 출력 구현
+>   3) 유튜브 API 연결로 인기 컨텐츠 페이지 구현
+>   4) 검색, 좋아요, 공유하기 등 세부 기능 구현  
 > - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 > 
 > [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
@@ -68,10 +72,10 @@ Here are some ideas to get you started:
 > 
 >
 > - 개발기간 : 2024.01-2024.06
-> - 작업 범위 : 
+> - 작업 범위 : 음성 모델 제작, 가상 인물 영상 제작, 립싱크 합성
 > - 역할 및 업무:
-> (1) ㄹㅇㄹㅇ
-> (2) ㄹㄴㄷㄷ
+> (1) ComfyUI를 활용한 stable diffusion 기반 영상 제작
+> (2) tortoise 모델 학습을 통한 TTS 모델 제작
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
 > [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
