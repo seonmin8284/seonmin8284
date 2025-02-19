@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## 1. 방송 스트리머를 위한 WebRTC 실시간 딥페이크 서비스
 > 
 >
-> - 개발기간 : 2025.01.20-
+> - 개발기간 : 2025.01-
 > - 작업 범위 : WebRTC 스트리밍, P2P 및 TURN 서버 지원, 웹 및 모바일 지원, 단일 이미지로 얼굴 변환, 다중 GPU(Distributed Data Parallel) 지원
 > - 역할 및 업무: 1인 기획, 개발
 > - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -48,15 +48,59 @@ Here are some ideas to get you started:
 
 <br />
 
-## 1. AI 가상인간 영상 제작
+
+## 2. 사용자 콘텐츠 추천 시스템을 활용한 GPT 기반 대화형 팟캐스트(PODLY) 
 > 
 >
-> - 개발기간 : 2022.07.07-09.02
+> - 개발기간 : 2024.01-2024.06
+> - 작업 범위 : 
+> - 역할 및 업무: 모바일 크로스플랫폼 앱 프론엔드 제작
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+> 
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+
+## 3. stable diffusion, TTS(Text to Speach AI)를 활용한 AI 가상인간 영상 제작
+> 
+>
+> - 개발기간 : 2024.01-2024.06
 > - 작업 범위 : 
 > - 역할 및 업무:
 > (1) ㄹㅇㄹㅇ
 > (2) ㄹㄴㄷㄷ
-> - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+> 
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+## 4. AML(Anti Money Laundering) 이상 거래 탐지를 위한 연합학습 기반 GNN(Graph neural networks) 모델 구현
+> 
+>
+> - 개발기간 : 2023.02-2023.07
+> - 작업 범위 : 
+> - 역할 및 업무:
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+> 
+> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+
+<br />
+
+## 5. 전세 사기 예방을 위한 블록체인 기반 OCR 활용 부동산 계약 시스템
+> 
+>
+> - 개발기간 : ???
+> - 작업 범위 : 
+> - 역할 및 업무:
+> (1) ㄹㅇㄹㅇ
+> (2) ㄹㄴㄷㄷ
+> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
 > [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
 
