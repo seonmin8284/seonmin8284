@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 >   4) 검색, 좋아요, 공유하기 등 세부 기능 구현  
 > - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 > (2) tortoise 모델 학습을 통한 TTS 모델 제작
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 > (2) ㄹㄴㄷㄷ
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 > (2) ㄹㄴㄷㄷ
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 > (2) ㄹㄴㄷㄷ
 > - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 > (2) ㄹㄴㄷㄷ
 > - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 >   
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -148,7 +148,7 @@ Here are some ideas to get you started:
 > (2) ㄹㄴㄷㄷ
 > - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -164,7 +164,7 @@ Here are some ideas to get you started:
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -179,7 +179,7 @@ Here are some ideas to get you started:
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -194,7 +194,7 @@ Here are some ideas to get you started:
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
@@ -209,7 +209,7 @@ Here are some ideas to get you started:
 > (2) ㄹㄴㄷㄷ
 > - Skill : <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 > 
-> [프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)
+> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
 <br />
 
