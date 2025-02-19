@@ -159,11 +159,21 @@ Here are some ideas to get you started:
 > 
 >
 > - 개발기간 : 2022.07.07-09.02
-> - 작업 범위 : 
+> - 작업 범위 : YOLOv5를 활용한 객체 검출, HRNet 기반의 자세 추정, EfficientNet을 이용한 다중 라벨 분류, 인간공학적 평가 기법을 적용한 자세 분석, 그리고 EfficientNet-Lite를 활용한 모바일 환경 최적화까지의 AI 모델 개발 및 응용
 > - 역할 및 업무: 
-> (1) ㄹㅇㄹㅇ
-> (2) ㄹㄴㄷㄷ
-> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+>   (1) AI 서비스 기획 총괄
+>   1) 프로젝트의 전반적인 AI 서비스 기획 및 방향 설정
+>   2) 각 Task 간 연계성을 고려한 서비스 설계 및 성능 최적화
+>   
+>   (2) YOLOv5 기반 객체 검출 담당
+>   1) YOLOv5s를 활용하여 데이터 전처리 및 객체 검출 모델 학습, Task 02에서 활용할 Cropped 이미지 생성
+>   
+>   (3) 모바일 제작 담당
+>   1) Flutter를 활용한 UI/UX 설계 및 구현
+>   2) EfficientNet-Lite 기반 모바일 애플리케이션 개발 및 최적화
+>   3) AI 모델을 모바일 환경에 배포 및 성능 테스트 진행
+
+> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 > 
 > 
 > [프로젝트 상세 설명](https://github.com/seonmin8284/skeleton_Vision/tree/main)
