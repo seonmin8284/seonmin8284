@@ -166,7 +166,7 @@ Here are some ideas to get you started:
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
 > 
-> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
+> [프로젝트 상세 설명](https://github.com/seonmin8284/skeleton_Vision/tree/main)
 
 <br />
 
