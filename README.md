@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ## 3. stable diffusion, TTS(Text to Speach AI)를 활용한 AI 가상인간 영상 제작
 > 
 >
-> - 개발기간 : 2024.06-2024.09
+> - 개발기간 : 2024.02-2024.05
 > - 작업 범위 : 음성 모델 제작, 가상 인물 영상 제작, 립싱크 합성
 > - 역할 및 업무:
 > (1) ComfyUI를 활용한 stable diffusion 기반 영상 제작
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 ## 4. AML(Anti Money Laundering) 이상 거래 탐지를 위한 연합학습 기반 GNN(Graph neural networks) 모델 구현
 > 
 >
-> - 개발기간 : 2024.01-2024.05
+> - 개발기간 : 2023.01-2023.06
 > - 작업 범위 : 
 > - 역할 및 업무:
 > (1) ㄹㅇㄹㅇ
