@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 <br />
 
 ## 1. 방송 스트리머를 위한 WebRTC 실시간 딥페이크 서비스
-> 
+<details>
+<summary>펼치기</summary>
+
 >
 > - 개발기간 : 2025.01-
 > - 작업 범위 : WebRTC를 활용한 실시간 딥페이크 변환 및 스트리밍 시스템 구축, Roop 기반 Face Swap AI 모델 개발 및 최적화, Distributed Data Parallel (DDP) 기반 다중 GPU 활용 최적화, WebRTC 서버 및 TURN 서버 구축을 통한 실시간 영상 데이터 송수신 구현, Hyperstack Cloud를 활용한 서버 인프라 구축 및 RTMP 스트리밍 연계 가능성 고려  
@@ -66,11 +68,15 @@ Here are some ideas to get you started:
 > 
 > [프로젝트 상세 설명](https://github.com/seonmin8284/realTimeDeepfake_based_on_WebRTC)
 
+</details>
+
 <br />
 
 
-## 2. 콘텐츠 추천 시스템을 활용한 GPT 기반 대화형 팟캐스트(PODLY) 
-> 
+## 미완성 2. 콘텐츠 추천 시스템을 활용한 GPT 기반 대화형 팟캐스트(PODLY) 
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2024.10
 > - 작업 범위 : 컨텐츠 추천 시스템 개발, RAG를 활용한 LLM 기반 챗봇 구현, STT 및 TTS 구현, 모바일 플랫폼 개발 
@@ -87,11 +93,15 @@ Here are some ideas to get you started:
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
+</details>
+
 <br />
 
 
-## 3. stable diffusion, TTS(Text to Speach AI)를 활용한 AI 가상인간 영상 제작
-> 
+## 3. 미완성 stable diffusion, TTS(Text to Speach AI)를 활용한 AI 가상인간 영상 제작
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2024.02-2024.05
 > - 작업 범위 : 음성 모델 제작, 가상 인물 영상 제작, 립싱크 합성
@@ -102,10 +112,14 @@ Here are some ideas to get you started:
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
+</details>
+
 <br />
 
-## 4. AML(Anti Money Laundering) 이상 거래 탐지를 위한 연합학습 기반 GNN(Graph neural networks) 모델 구현
-> 
+## 4. 미완성 AML(Anti Money Laundering) 이상 거래 탐지를 위한 연합학습 기반 GNN(Graph neural networks) 모델 구현
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2023.01-2023.06
 > - 작업 범위 : 
@@ -116,10 +130,14 @@ Here are some ideas to get you started:
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
 
+</details>
+
 <br />
 
-## 5. 전세 사기 예방을 위한 블록체인 기반 OCR 활용 부동산 계약 시스템
-> 
+## 5. 미완성 전세 사기 예방을 위한 블록체인 기반 OCR 활용 부동산 계약 시스템
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : ???
 > - 작업 범위 : 
@@ -129,11 +147,14 @@ Here are some ideas to get you started:
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
+</details>
 
 <br />
 
-## 6. 협업용 영화 스튜디오 공유 모바일 플랫폼
-> 
+## 6. 미완성 협업용 영화 스튜디오 공유 모바일 플랫폼
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 작업 범위 : 
@@ -143,11 +164,14 @@ Here are some ideas to get you started:
 > - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
+</details>
 
 <br />
 
-## 7. 테니스 동아리 회원 전용 테니스장 예약 모바일 플랫폼
-> 
+## 7. 미완성 테니스 동아리 회원 전용 테니스장 예약 모바일 플랫폼
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 작업 범위 : 
@@ -157,11 +181,13 @@ Here are some ideas to get you started:
 > - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 >   
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
-
+</details>
 <br />
 
-## 8. NAWA 재활용 종이컵 스타트업 홈페이지 제작
-> 
+## 8. 미완성  NAWA 재활용 종이컵 스타트업 홈페이지 제작
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 작업 범위 : 
@@ -171,12 +197,15 @@ Here are some ideas to get you started:
 > - Skill : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
+</details>
 
 <br />
 
 
 ## 9. 제조업 노동자 근골격계 부담요인 예방 인공지능 데이터 구축
-> 
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 작업 범위 : YOLOv5를 활용한 객체 검출, HRNet 기반의 자세 추정, EfficientNet을 이용한 다중 라벨 분류, 인간공학적 평가 기법을 적용한 자세 분석, 그리고 EfficientNet-Lite를 활용한 모바일 환경 최적화까지의 AI 모델 개발 및 응용
@@ -198,11 +227,14 @@ Here are some ideas to get you started:
 > 
 > 
 > [프로젝트 상세 설명](https://github.com/seonmin8284/skeleton_Vision/tree/main)
+</details>
 
 <br />
 
-## 9. 드론
-> 
+## 9. 미완성 드론
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 작업 범위 : 
@@ -213,11 +245,13 @@ Here are some ideas to get you started:
 > 
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
-
+</details>
 <br />
 
-## 9. 가상피팅
-> 
+## 9. 미완성 가상피팅
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 작업 범위 : 
@@ -228,12 +262,14 @@ Here are some ideas to get you started:
 > 
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
-
+</details>
 <br />
 
 
-## 10. 유니스트
-> 
+## 10. 미완성 유니스트
+<details>
+<summary>펼치기</summary>
+  
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 작업 범위 : 
@@ -243,7 +279,8 @@ Here are some ideas to get you started:
 > - Skill : <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
-
+  
+</details>
 <br />
 
 
