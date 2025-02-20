@@ -106,8 +106,11 @@ Here are some ideas to get you started:
 > - 개발기간 : 2024.02-2024.05
 > - 작업 범위 : 음성 모델 제작, 가상 인물 영상 제작, 립싱크 합성
 > - 역할 및 업무:
-> (1) ComfyUI를 활용한 stable diffusion 기반 영상 제작
-> (2) tortoise 모델 학습을 통한 TTS 모델 제작
+>   
+>   (1) ComfyUI를 활용한 stable diffusion 기반 영상 제작
+>   
+>   (2) tortoise 모델 학습을 통한 TTS 모델 제작
+>   
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
 > ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
@@ -134,19 +137,28 @@ Here are some ideas to get you started:
 
 <br />
 
-## 5. 미완성 전세 사기 예방을 위한 블록체인 기반 OCR 활용 부동산 계약 시스템
+## 5. 전세 사기 예방을 위한 블록체인 기반 OCR 활용 부동산 계약 시스템
 <details>
 <summary>펼치기</summary>
   
 >
-> - 개발기간 : ???
-> - 작업 범위 : 
+> - 개발기간 : 2022.06-2022.08
+> - 작업 범위 : 블록체인 스마트 컨트랙트 기반 부동산 계약 자동화 시스템 설계, 분산 신원 확인을 통한 참여자 검증 설계, Tesseract OCR 기술을 활용하여 기존 부동산 관련 문서 분석 및 정보 추출 구현, 공공 데이터 API를 활용한 위험 감지 및 변동 사항 알림 시스템 구현
 > - 역할 및 업무:
-> (1) ㄹㅇㄹㅇ
-> (2) ㄹㄴㄷㄷ
+>   
+>   (1) 서비스 기획 총괄
+>   1) 부동산 전세사기 문제 분석 및 시장 조사
+>   2) 프로젝트의 전반적인 블록체인 AI 서비스 기획 및 방향 설정
+>      
+>   (2) Tesseract OCR 기반 부동산 문서 내 글자 인식 구현
+>   
+>   (3) 공공 데이터 API를 활용 Flask 서버 및 전체 프로토타입 구현
+> 
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
-> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
+> [프로젝트 상세 설명](https://github.com/seonmin8284/realEstateOCR)
+>
+> [부동산 문서 Tesseract OCR 설명](https://github.com/seonmin8284/realEstateOCR)
 </details>
 
 <br />
