@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <br />
 
 
-## 3. 미완성 stable diffusion, TTS(Text to Speach AI)를 활용한 AI 가상인간 영상 제작
+## 3. stable diffusion, TTS(Text to Speach AI)를 활용한 AI 가상인간 영상 제작
 <details>
 <summary>펼치기</summary>
   
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 >   
 > - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 > 
-> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
+> [프로젝트 상세 설명](https://github.com/seonmin8284/virtualHuman)
 
 </details>
 
