@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <br />
 
 
-## 미완성 2. 콘텐츠 추천 시스템을 활용한 GPT 기반 대화형 팟캐스트(PODLY) 
+## 2. 콘텐츠 추천 시스템을 활용한 GPT 기반 대화형 팟캐스트(PODLY) 
 <details>
 <summary>펼치기</summary>
   
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 >   4) 검색, 좋아요, 공유하기 등 세부 기능 구현  
 > - Skill : <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 > 
-> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
+> [프로젝트 상세 설명](https://github.com/seonmin8284/podly)
 
 </details>
 
