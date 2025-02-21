@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## 4. 미완성 AML(Anti Money Laundering) 이상 거래 탐지를 위한 연합학습 기반 GNN(Graph neural networks) 모델 구현
+## ~~4. 미완성 AML(Anti Money Laundering) 이상 거래 탐지를 위한 연합학습 기반 GNN(Graph neural networks) 모델 구현~~
 <details>
 <summary>펼치기</summary>
   
@@ -162,7 +162,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## 6. 미완성 협업용 영화 스튜디오 공유 모바일 플랫폼
+## ~~6. 미완성 협업용 영화 스튜디오 공유 모바일 플랫폼~~
 <details>
 <summary>펼치기</summary>
   
@@ -179,7 +179,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## 7. 미완성 테니스 동아리 회원 전용 테니스장 예약 모바일 플랫폼
+## ~~7. 미완성 테니스 동아리 회원 전용 테니스장 예약 모바일 플랫폼~~
 <details>
 <summary>펼치기</summary>
   
@@ -195,7 +195,7 @@ Here are some ideas to get you started:
 </details>
 <br />
 
-## 8. 미완성  NAWA 재활용 종이컵 스타트업 홈페이지 제작
+## ~~8. 미완성  NAWA 재활용 종이컵 스타트업 홈페이지 제작~~
 <details>
 <summary>펼치기</summary>
   
@@ -242,7 +242,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## 9. 미완성 드론
+## ~~9. 미완성 드론~~
 <details>
 <summary>펼치기</summary>
   
@@ -259,7 +259,7 @@ Here are some ideas to get you started:
 </details>
 <br />
 
-## 9. 미완성 가상피팅
+## ~~9. 미완성 가상피팅~~
 <details>
 <summary>펼치기</summary>
   
@@ -277,7 +277,7 @@ Here are some ideas to get you started:
 <br />
 
 
-## 10. 미완성 유니스트
+## ~~10. 미완성 유니스트~~
 <details>
 <summary>펼치기</summary>
   
