@@ -242,58 +242,6 @@ Here are some ideas to get you started:
 
 <br />
 
-## ~~9. 미완성 드론~~
-<details>
-<summary>펼치기</summary>
-  
->
-> - 개발기간 : 2022.07.07-09.02
-> - 작업 범위 : 
-> - 역할 및 업무: 
-> (1) ㄹㅇㄹㅇ
-> (2) ㄹㄴㄷㄷ
-> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-> 
-> 
-> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
-</details>
-<br />
-
-## ~~9. 미완성 가상피팅~~
-<details>
-<summary>펼치기</summary>
-  
->
-> - 개발기간 : 2022.07.07-09.02
-> - 작업 범위 : 
-> - 역할 및 업무: 
-> (1) ㄹㅇㄹㅇ
-> (2) ㄹㄴㄷㄷ
-> - Skill : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-> 
-> 
-> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
-</details>
-<br />
-
-
-## ~~10. 미완성 유니스트~~
-<details>
-<summary>펼치기</summary>
-  
->
-> - 개발기간 : 2022.07.07-09.02
-> - 작업 범위 : 
-> - 역할 및 업무: 
-> (1) ㄹㅇㄹㅇ
-> (2) ㄹㄴㄷㄷ
-> - Skill : <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-> 
-> ~~[프로젝트 상세 설명](https://github.com/seonmin8284/nawaPJ)~~
-  
-</details>
-<br />
-
 
 <div align=center><h1>📚 LANGUAGE</h1></div>
 <div align=center>
